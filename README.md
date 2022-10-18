@@ -14,7 +14,9 @@ N/A
 To use this guide review the notes in each section. 
 For ideas on what to study you can open Chrome DevTools by pressing command+option+I (MacOS) or control+shift+I (windows) an go to 'console'. The panel will open to the side or below the webpage. You will see a list of the topics covered in the course along with a suggestion on what topic to study first.
 Watch this video to see what happens:
- https://user-images.githubusercontent.com/115932457/196454405-3fc5fdcf-9429-4818-981b-e645f8309082.mp4
+
+https://user-images.githubusercontent.com/115932457/196464284-23fd85b4-f49e-4d3c-b19a-6d2b2c5368c9.mp4
+
 
 ## Credits
 
